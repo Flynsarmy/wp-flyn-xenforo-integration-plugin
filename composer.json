@@ -1,0 +1,21 @@
+{
+    "name": "flynsarmy/flyn-wp-xenforo-plugin",
+    "description": "Integrates Xenforo with WordPress",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "flynsarmy",
+            "email": "flynsarmy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Flyn\\Xenforo\\": "Flyn\\Xenforo"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    }
+}

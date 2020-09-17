@@ -1,0 +1,12 @@
+build:
+  nodes:
+    analysis:
+      dependencies:
+        before:
+          - composer require --dev johnpbloch/wordpress wp-cli/wp-cli-bundle
+
+filter:
+  dependency_paths:
+    - wordpress/
+    - vendor/
+    - vendor/wp-cli/wp-cli/php/
