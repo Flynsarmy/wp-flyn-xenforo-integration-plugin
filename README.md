@@ -1,8 +1,7 @@
 # Flyn Xenforo Integration for WordPress
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-![Build Status - PHP](https://github.com/Flynsarmy/wp-flyn-xenforo-plugin/workflows/CI%20-%20PHP/badge.svg)
-[![Code Quality](https://scrutinizer-ci.com/g/Flynsarmy/wp-flyn-xenforo-plugin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Flynsarmy/wp-flyn-image-optimizer-plugin/?branch=master)
+![Build Status - PHP](https://github.com/Flynsarmy/wp-flyn-xenforo-integration-plugin/workflows/CI%20-%20PHP/badge.svg)
 
 This plugin integrates Xenforo into WordPress.
 
